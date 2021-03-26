@@ -1,0 +1,18 @@
+h1{
+font-size: 1em;
+
+}
+h2,h3{
+  font-size: 2em;
+}
+.text{
+  font-size: 12px;
+}
+p{
+  font-style: 10px;
+}
+footer{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
