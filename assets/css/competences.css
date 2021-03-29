@@ -1,12 +1,15 @@
+h2{
+  color: #9F26CC;
+}
 p{
   text-align: center;
   font-size: 24px;
+  color: #311B92;
 }
 footer{
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 10px;
-
 }
 .icones{
   width: 50px;
